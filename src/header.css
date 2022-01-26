@@ -1,0 +1,33 @@
+header {
+  margin: 0 auto;
+  text-align: center;
+  background-image: url("./img/hero.png");
+  height: 70vh;
+  min-height: 500px;
+}
+
+header h1 {
+  margin: 0;
+  padding-top: 8rem;
+  font-size: 4rem;
+  color: rgb(33, 37, 41);
+}
+
+header p {
+  margin-top: 1rem;
+  color: rgb(33, 37, 41);
+  font-weight: 700;
+  font-size: 1.75rem;
+  margin-bottom: 8rem;
+}
+
+header a {
+  font-weight: 700;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0.1);
+  background-color: #1d809f;
+  border-color: #1d809f;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 1.25rem 2.5rem;
+  border-radius: 0.25rem;
+}
